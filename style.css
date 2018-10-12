@@ -1,0 +1,23 @@
+
+.ProfileCardStats {
+  padding-top: 0;
+}
+
+.PhotoRail,
+.trends,
+.roaming-module,
+.ProfileCardStats-statList,
+
+.TweetImpressionsModule,
+.ProfileTweet-actionCount,
+.js-activity-follow,
+.js-activity-favorite,
+.tweet-stats-container,
+.ProfileUserList--socialProof,
+.global-nav-inner .notifications{
+  display: none !important;
+}
+
+.ProfileNav-item:not(.ProfileNav-item--userActions) {
+  display: none !important;
+}
