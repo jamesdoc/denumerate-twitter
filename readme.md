@@ -1,5 +1,7 @@
 # Denumerate Twitter
 
+![Logo](icn/denumerate-twitter128w.png)
+
 [Graham Miller](https://twitter.com/Windy_London) asked:
 
 > Is there a Twitter portal that purposely DOESNT tell you who follows you, hides whether your tweets are retweeted or liked, and lets you view your friends threads with the numbers of retweets and likes hidden.
