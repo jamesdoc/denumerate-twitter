@@ -9,6 +9,13 @@
     "css": ["style.css"],
     "js": [],
     "matches": ["https://twitter.com/*"]
-  }]
+  }],
+
+  "icons": {
+    "16": "icn/denumerate-twitter16w.png",
+    "32": "icn/denumerate-twitter32w.png",
+    "48": "icn/denumerate-twitter48w.png",
+    "128": "icn/denumerate-twitter128w.png"
+  }
  
 }
