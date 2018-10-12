@@ -2,6 +2,7 @@
   "manifest_version": 2,
  
   "name": "Denumerate Twitter",
+  "short_name": "Denumerate Twitter",
   "version": "0.0.1",
   "description": "Twitter that purposely doesn't tell you who follows you, hides whether your tweets are retweeted or liked…",
 
